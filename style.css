@@ -47,17 +47,21 @@ header {
 
 /* Right column */
 
-.right-column1, .right-column2 {
+.right-column {
   float: right;
   width: 20%;
   margin-right: 1%;
   /* debug */
-  height: 200px;
-  background-color: pink;
+  /* height: 200px;
+  background-color: pink; */
 }
 
-.right-column2 {
-  margin-top: 18px;
+.right-column section {
+  width: 100%;
+  margin-bottom: 18px;
+  /* Debug */
+  height: 200px;
+  background-color: pink;
 }
 
 /* Footer */
